@@ -25,4 +25,4 @@ jobs:
           
       - name: Run PHPUnittests
         run: |
-          ./vendor/bin/phpunit--testdoxtests
+          ./vendor/bin/phpunit --testdox tests
